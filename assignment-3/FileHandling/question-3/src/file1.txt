@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 ajay ajay 4096 Nov 11 18:33 bin
+-rw-rw-r-- 1 ajay ajay    0 Nov 11 19:03 file1.txt
+drwxrwxr-x 2 ajay ajay 4096 Nov 11 19:01 src
+-rw-rw-r-- 1 ajay ajay  157 Nov 11 18:34 Untitled 1

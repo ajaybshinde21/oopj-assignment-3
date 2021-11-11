@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 ajay ajay 4096 Nov 11 16:34 bin
+-rw-rw-r-- 1 ajay ajay    0 Nov 11 16:44 ls-output.txt
+-rw-rw-r-- 1 ajay ajay   49 Nov 11 16:34 Question-Statement
+drwxrwxr-x 2 ajay ajay 4096 Nov 11 16:34 src

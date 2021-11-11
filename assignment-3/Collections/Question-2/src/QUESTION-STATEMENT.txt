@@ -1,0 +1,19 @@
+Question-STATEMENT
+
+
+2) Write a Java menu driven program to perform the following operations-using Array List  Create a class called Player with the following instance variable 
+          
+
+Player name 
+total run 
+no of wicket 
+no of matches 
+country 
+no-of-century 
+Category = null 
+
+* Create 5 Players  add into the Array List 
+* Display the player details who has scored maximum no of runs 
+* Sort the players by name 
+* Remove the player who has scored less than 100 runs 
+* Update Category ‘A’ if player has got 10 century else update Grade ‘ B’ 
