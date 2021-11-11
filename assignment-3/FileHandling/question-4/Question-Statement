@@ -1,0 +1,7 @@
+4) Write a program to serialize the student object(id,name,marks,subject) 
+*Write a student object (minimum five)  into the file 
+* Read the same from the file, 
+* Find out result and display the student details along with result.
+* Find out how many no of students passed and failed in a particular 
+   Subject.
+*Sort the students object based on marks.
